@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapi=self.webpackChunkapi||[]).push([[145],{145:e=>{e.exports=JSON.parse('{"text":"ERES UNA PERSONA?","yes_button":"SI, LO SOY","no_button":"NO, NO LOS SOY"}')}}]);
