@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapi=self.webpackChunkapi||[]).push([[425],{425:o=>{o.exports=JSON.parse('{"title":"SAVE GAME","ccl_btn":"Cancel","text":"Please, choose one option to get your save url (Dowload = Dowload a file.txt // Copy = Copy to clipboard )","copy_btn":"COPY","dowload_btn":"DOWLOAD","copy_msj":"URL Copied!","dowload_msj":"URL Dowloaded!"}')}}]);

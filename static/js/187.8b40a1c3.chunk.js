@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapi=self.webpackChunkapi||[]).push([[187],{187:e=>{e.exports=JSON.parse('{"title":"VOLVER AL LOBY","text":"\xbfEstas seguro que quieres volver al loby? (Recuerda que perderas todo el progreso de este desafio.)","acp_btn":"OK","ccl_btn":"Cancelar"}')}}]);

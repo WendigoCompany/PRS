@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapi=self.webpackChunkapi||[]).push([[662],{662:e=>{e.exports=JSON.parse('{"title":"JUEGO 001","loadbtn":"CARGAR PARTIDA","nwbtn":"JUEGO NUEVO"}')}}]);
