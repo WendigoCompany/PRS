@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapi=self.webpackChunkapi||[]).push([[215],{8215:e=>{e.exports=JSON.parse('{"title":"RETURN TO MAIN PAGE","text":"Are you sure you want to the main page? (Please remember to save your game pressing the save button)","acp_btn":"OK","ccl_btn":"Cancel"}')}}]);
