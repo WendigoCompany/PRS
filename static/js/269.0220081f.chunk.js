@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapi=self.webpackChunkapi||[]).push([[269],{269:a=>{a.exports=JSON.parse('{"title":"GUARDAR PARTIDA","ccl_btn":"Cancelar","text":"Descarge su partida guardada","copy_btn":"COPIAR","dowload_btn":"DESCARGAR","copy_msj":"URL Copiada!","dowload_msj":"Partida Descargada!"}')}}]);

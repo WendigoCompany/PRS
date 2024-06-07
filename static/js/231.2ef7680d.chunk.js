@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapi=self.webpackChunkapi||[]).push([[231],{6231:t=>{t.exports=JSON.parse('{"win":{"title":"CONGRATULATIONS!","text":"YOU WON A NEW TICKET!","acp_btn":"OK!"},"lose":{"title":"GAME OVER","text":"YOU LOSE... Returning to loby... Try again! You can do it!","acp_btn":"YES!"}}')}}]);

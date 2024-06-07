@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapi=self.webpackChunkapi||[]).push([[927],{2927:e=>{e.exports=JSON.parse('{"title":"RETURN TO GAME","text":"Are you sure you want to the  skip this scene and return to the game?","acp_btn":"OK","ccl_btn":"Cancel"}')}}]);

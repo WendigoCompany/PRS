@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapi=self.webpackChunkapi||[]).push([[720],{1720:a=>{a.exports=JSON.parse('{"title":"CARGAR PARTIDA","label":"Selecciona un archivo con su partida.","file_inp":"Buscar Archivo","txt_inp_ph":"Tu url de salvado","acp_btn":"Cargar","ccl_btn":"Cancelar"}')}}]);
